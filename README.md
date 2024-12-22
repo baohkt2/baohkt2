@@ -30,8 +30,8 @@ I'm a passionate Backend Developer specializing in Java and Spring Boot technolo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baohkt2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohkt2&layout=compact&langs_count=7&theme=algolia"/>
 </p>
 
 ### 🏆 GitHub Trophies
