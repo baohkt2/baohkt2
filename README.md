@@ -35,7 +35,7 @@ I'm a passionate Backend Developer specializing in Java and Spring Boot technolo
 </p>
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=baohkt2&theme=nord&column=7)
 
 ## 🤝 Let's Connect!
 
@@ -48,7 +48,7 @@ I'm a passionate Backend Developer specializing in Java and Spring Boot technolo
 - Happy to discuss Java, system design, and tech challenges
 - Always learning and expanding my technical horizons
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=baohkt2&color=blue)
 
 ### ⚡ Fun Fact
 **When I'm not coding, I'm solving algorithm challenges or exploring new tech innovations! 🧩**
