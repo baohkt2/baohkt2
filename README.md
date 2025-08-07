@@ -55,11 +55,6 @@ I'm a passionate **Backend Developer** specializing in Java and Spring Boot tech
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baohkt2&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=baohkt2&theme=algolia&border_radius=10" alt="GitHub Streak"/>
-</div>
-
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baohkt2&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
