@@ -66,7 +66,8 @@ I'm a passionate **Backend Developer** specializing in Java and Spring Boot tech
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🎓 **Academic Social Network** | AI-integrated platform for Can Tho University | Java, Spring Boot, AI/ML, Big Data | 🚧 In Progress |
+| 🎯 **CUSC CRM** | Hệ thống Quản lý Quan hệ Khách hàng - nền tảng CRM toàn diện cho doanh nghiệp với các tính năng quản lý leads, contacts, sales, và workflow tự động | PHP 8.1+, MySQL 8.0, Smarty, jQuery, Bootstrap 4, REST API | ✅ Complete |
+| 🎓 **Academic Social Network** | AI-integrated platform for Can Tho University | Java, Spring Boot, AI/ML, Big Data | ✅ Complete |
 | 🌐 **E-Commerce API** | Scalable REST API for online marketplace | Java, Spring Boot, PostgreSQL | ✅ Complete |
 | 🔒 **Authentication Service** | JWT-based microservice for user management | Spring Security, Redis, Docker | ✅ Complete |
 
