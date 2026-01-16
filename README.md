@@ -7,7 +7,7 @@
 ## 🌐 About Me
 
 ### 💡 Professional Snapshot
-I'm a passionate **Backend Developer** specializing in Java and Spring Boot technologies. I love crafting robust, scalable solutions and diving deep into complex system architectures.
+I'm a passionate **Full-stack Developer** specializing in Java and Spring Boot technologies. I love crafting robust, scalable solutions and diving deep into complex system architectures.
 
 ### 🚀 Current Focus
 - 🔭 **Ongoing Project:** Developing AI-integrated academic social network platform for Can Tho University
@@ -88,7 +88,7 @@ I'm a passionate **Backend Developer** specializing in Java and Spring Boot tech
 ```java
 public class Collaboration {
     private final List<String> interests = Arrays.asList(
-        "Backend Development", 
+        "Full-stack Development", 
         "System Architecture", 
         "Microservices",
         "Cloud Native Solutions",
