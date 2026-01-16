@@ -1,7 +1,7 @@
 # 👨‍💻 Hi there, I'm Bảo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Expert;System+Architecture+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Java+%26+Spring+Boot+Expert;System+Architecture+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ## 🌐 About Me
