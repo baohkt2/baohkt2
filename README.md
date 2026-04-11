@@ -53,12 +53,12 @@ I'm a passionate **Full-stack Developer** specializing in Java and Spring Boot t
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baohkt2&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
-
+<!--
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sa5f.vercel.app/api?username=baohkt2&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
 </div>
-
+-->
 ## 💼 Featured Projects
 
 <div align="center">
