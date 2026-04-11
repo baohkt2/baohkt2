@@ -77,8 +77,8 @@ I'm a passionate **Full-stack Developer** specializing in Java and Spring Boot t
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-nguyen-0b0669222/)
 [![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbaocs13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio-link.com/)
 
+<!-- [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio-link.com/) -->
 </div>
 
 ### 💬 Open for Collaboration
